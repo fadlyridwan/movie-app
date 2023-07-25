@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: steelblue;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -28,7 +28,7 @@
 
 .Movie-wrapper {
   width: 500px;
-  background-color: antiquewhite;
+  background-color: cyan;
   color: black;
 }
 
